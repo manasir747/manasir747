@@ -27,7 +27,10 @@ Alongside web development, I actively explore DevOps and AI engineering to bette
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Dify-111827?style=for-the-badge" alt="Dify" />
   <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge" alt="Cursor" />
 </p>
 
 ## Skills
