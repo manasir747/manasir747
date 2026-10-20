@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="GitHub profile header" />
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b&section=header&text=Building%2E%20Learning%2E%20Shipping%2E&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="Building. Learning. Shipping." />
+
 </p>
 
 ## About
