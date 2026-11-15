@@ -59,13 +59,14 @@ Currently exploring the intersection of full-stack development, AI engineering, 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL and MongoDB"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,arduino,postman,cursor" alt="Git, GitHub, VS Code, IntelliJ IDEA, Arduino, Postman, Cursor"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,arduino,postman" alt="Git, GitHub, VS Code, IntelliJ IDEA, Arduino, Postman"/>
+  <img src="https://img.shields.io/badge/Cursor-242938?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
 </p>
 
 <p align="left">
@@ -90,8 +91,4 @@ Currently exploring the intersection of full-stack development, AI engineering, 
   <a href="https://leetcode.com/u/ma_nasir747/">
     <img src="https://camo.githubusercontent.com/3cea3b3590b0a57df660496eec347d8d015f915c09e2bf6b39934b60a8b5d206/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574436f64652d50726f66696c652d4638394631423f7374796c653d666f722d7468652d6261646765266c6f676f3d6c656574636f6465266c6f676f436f6c6f723d7768697465" alt="LeetCode"/>
   </a>
-</p>
-
-<p align="center">
-  <i>Building. Learning. Shipping.</i>
 </p>
