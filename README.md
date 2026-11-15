@@ -59,16 +59,16 @@ Currently exploring the intersection of full-stack development, AI engineering, 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL and MongoDB"/>
-  <img src="https://msicons.com/icons/databases/10130-icon-service-SQL-Database.svg" width="80" height="80" alt="SQL Database"/>
+  <img src="https://msicons.com/icons/databases/10130-icon-service-SQL-Database.svg" width="50" height="50" alt="SQL Database"/>
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,arduino,postman" alt="Git, GitHub, VS Code, IntelliJ IDEA, Arduino, Postman"/>
-  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="80" height="80" alt="Cursor"/>
-  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="80" height="80" alt="Google Antigravity"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="80" height="80" alt="Cisco Packet Tracer"/>
+  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="50" height="50" alt="Cursor"/>
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="50" height="50" alt="Google Antigravity"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="50" height="50" alt="Cisco Packet Tracer"/>
 </p>
 
 ---
