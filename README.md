@@ -59,19 +59,16 @@ Currently exploring the intersection of full-stack development, AI engineering, 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL and MongoDB"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+  <img src="https://msicons.com/icons/databases/10130-icon-service-SQL-Database.svg" width="80" height="80" alt="SQL Database"/>
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,arduino,postman" alt="Git, GitHub, VS Code, IntelliJ IDEA, Arduino, Postman"/>
-  <img src="https://img.shields.io/badge/Cursor-242938?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity"/>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
+  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="80" height="80" alt="Cursor"/>
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="80" height="80" alt="Google Antigravity"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="80" height="80" alt="Cisco Packet Tracer"/>
 </p>
 
 ---
