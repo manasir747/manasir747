@@ -27,13 +27,13 @@ Currently exploring the intersection of full-stack development, AI engineering, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./assets/overview.svg" width="58%" alt="GitHub Statistics"/>
-  <img src="./assets/languages.svg" width="40%" alt="Most Used Languages"/>
+  <img src="./assets/overview.svg" width="51%" alt="GitHub Statistics"/>
+  <img src="./assets/languages.svg" width="47%" alt="Most Used Languages"/>
 </p>
 
 ---
 
-## 📈 GitHub Contributions
+## 📅 GitHub Contributions – 3D Isometric Calendar
 
 <p align="center">
   <img src="./assets/metrics.plugin.isocalendar.fullyear.svg" width="100%" alt="3D Isometric GitHub Contribution Calendar"/>
@@ -59,33 +59,33 @@ Currently exploring the intersection of full-stack development, AI engineering, 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL and MongoDB"/>
-  <img src="https://msicons.com/icons/databases/10130-icon-service-SQL-Database.svg" width="50" height="50" alt="SQL Database"/>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" height="48" alt="SQL Database"/></a>
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,arduino,postman" alt="Git, GitHub, VS Code, IntelliJ IDEA, Arduino, Postman"/>
-  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="50" height="50" alt="Cursor"/>
-  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="50" height="50" alt="Google Antigravity"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="50" height="50" alt="Cisco Packet Tracer"/>
+  <a href="https://www.cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="48" alt="Cursor"/></a>
+  <a href="https://antigravity.google"><img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="48" alt="Google Antigravity"/></a>
+  <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" height="48" alt="Cisco Packet Tracer"/></a>
 </p>
 
 ---
 
-## Contact
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="mailto:ma.nasir747@gmail.com">
-    <img src="https://camo.githubusercontent.com/177c4429ca2093b5587e9eb1d1e94e39e189a2ff7a0cd67535b1b8f5e44f562c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d436f6e746163742532304d652d3642373238303f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammed-nasir-9a847a284/">
-    <img src="https://camo.githubusercontent.com/75d9367800d4b6224fd595fdb80a20cca62d7d04a1c7d37940afcb4754090b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4d6f68616d6d65642532304e617369722d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Nasir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/manasir747">
-    <img src="https://camo.githubusercontent.com/7d30b294c6d6cc67d326ca35e2a6bf2351c40b036fb3c25bb05dddfaa5c92242/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d6d616e617369723734372d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-manasir747-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/u/ma_nasir747/">
-    <img src="https://camo.githubusercontent.com/3cea3b3590b0a57df660496eec347d8d015f915c09e2bf6b39934b60a8b5d206/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574436f64652d50726f66696c652d4638394631423f7374796c653d666f722d7468652d6261646765266c6f676f3d6c656574636f6465266c6f676f436f6c6f723d7768697465" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-ma__nasir747-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
