@@ -7,8 +7,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - ".github/workflows/metrics.yml"
 
 jobs:
   isocalendar:
@@ -29,4 +27,3 @@ jobs:
           output_action: commit
           committer_message: "chore: update 3D isometric contribution calendar [skip ci]"
           filename: assets/metrics.plugin.isocalendar.fullyear.svg
-

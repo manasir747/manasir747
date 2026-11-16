@@ -59,16 +59,16 @@ Currently exploring the intersection of full-stack development, AI engineering, 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL and MongoDB"/>
-  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" height="48" alt="SQL Database"/></a>
+  <img src="https://msicons.com/icons/databases/10130-icon-service-SQL-Database.svg" width="50" height="50" alt="SQL Database"/>
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,arduino,postman" alt="Git, GitHub, VS Code, IntelliJ IDEA, Arduino, Postman"/>
-  <a href="https://www.cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="48" alt="Cursor"/></a>
-  <a href="https://antigravity.google"><img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="48" alt="Google Antigravity"/></a>
-  <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" height="48" alt="Cisco Packet Tracer"/></a>
+  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="50" height="50" alt="Cursor"/>
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="50" height="50" alt="Google Antigravity"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="50" height="50" alt="Cisco Packet Tracer"/>
 </p>
 
 ---
