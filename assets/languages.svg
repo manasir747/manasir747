@@ -25,7 +25,7 @@
       <rect x="0" y="0" width="380" height="8" rx="4" fill="white"/>
     </mask>
     <g mask="url(#bar-mask)">
-      <rect x="0.0" y="0" width="145.5" height="8" fill="#3178c6"/><rect x="145.5" y="0" width="105.6" height="8" fill="#f1e05a"/><rect x="251.2" y="0" width="54.7" height="8" fill="#3572A5"/><rect x="305.9" y="0" width="32.3" height="8" fill="#e34c26"/><rect x="338.2" y="0" width="25.5" height="8" fill="#663399"/><rect x="363.7" y="0" width="10.6" height="8" fill="#DA5B0B"/>
+      <rect x="0.0" y="0" width="145.2" height="8" fill="#3178c6"/><rect x="145.2" y="0" width="105.3" height="8" fill="#f1e05a"/><rect x="250.4" y="0" width="54.7" height="8" fill="#3572A5"/><rect x="305.1" y="0" width="32.7" height="8" fill="#e34c26"/><rect x="337.8" y="0" width="25.8" height="8" fill="#663399"/><rect x="363.7" y="0" width="10.6" height="8" fill="#DA5B0B"/>
     </g>
   </g>
 
@@ -35,13 +35,13 @@
         <g transform="translate(0, 0)">
           <circle cx="5" cy="5" r="5" fill="#3178c6"/>
           <text x="16" y="9" class="lang-name">TypeScript</text>
-          <text x="180" y="9" class="lang-pct" text-anchor="end">38.3%</text>
+          <text x="180" y="9" class="lang-pct" text-anchor="end">38.2%</text>
         </g>
         
         <g transform="translate(200, 0)">
           <circle cx="5" cy="5" r="5" fill="#f1e05a"/>
           <text x="16" y="9" class="lang-name">JavaScript</text>
-          <text x="180" y="9" class="lang-pct" text-anchor="end">27.8%</text>
+          <text x="180" y="9" class="lang-pct" text-anchor="end">27.7%</text>
         </g>
         
         <g transform="translate(0, 26)">
@@ -53,13 +53,13 @@
         <g transform="translate(200, 26)">
           <circle cx="5" cy="5" r="5" fill="#e34c26"/>
           <text x="16" y="9" class="lang-name">HTML</text>
-          <text x="180" y="9" class="lang-pct" text-anchor="end">8.5%</text>
+          <text x="180" y="9" class="lang-pct" text-anchor="end">8.6%</text>
         </g>
         
         <g transform="translate(0, 52)">
           <circle cx="5" cy="5" r="5" fill="#663399"/>
           <text x="16" y="9" class="lang-name">CSS</text>
-          <text x="180" y="9" class="lang-pct" text-anchor="end">6.7%</text>
+          <text x="180" y="9" class="lang-pct" text-anchor="end">6.8%</text>
         </g>
         
         <g transform="translate(200, 52)">
